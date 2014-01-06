@@ -1,0 +1,2 @@
+#!/bin/bash
+uic -o ui_mainwindow.h MainWindow.ui
